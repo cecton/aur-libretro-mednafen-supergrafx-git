@@ -1,10 +1,10 @@
 # Maintainer : Cecile Tonglet <cecile.tonglet@gmail.com>
 
 pkgname=libretro-mednafen-supergrafx-git
-pkgver=743.0d4d964
+pkgver=813.adb70c5
 pkgrel=1
 pkgdesc="libretro implementation of Mednafen's PCE Fast. (SuperGrafx, TG-16, PC Engine, TG-CD)"
-arch=('i686' 'x86_64' 'arm' 'armv6h' 'armv7h')
+arch=('i686' 'x86_64' 'arm' 'armv6h' 'armv7h' 'aarch64')
 url="https://github.com/libretro/beetle-supergrafx-libretro.git"
 license=('custom')
 conflicts=()
